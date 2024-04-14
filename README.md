@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rao Muhammad Bilal</h1>
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m a **Flutter** Developer 
 
 - 💬 Ask me about **Flutter Development and Problem-Solving**
 
-- 📫 How to reach me **raobilal1946@gmail.com**
+- 📫 How to reach me **raombilal123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
